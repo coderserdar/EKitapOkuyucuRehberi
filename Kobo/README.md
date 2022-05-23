@@ -1,2 +1,2 @@
-# EKitapOkuyucuRehberi
-E-Kitap Okuyucular ile ilgili olarak hem genel anlamda hem de marka bazlı bilgilerin paylaşıldığı bir repo
+# Kobo
+*Kanada*'da bulunan *Japon* **Rakuten** firmasının üretmiş olduğu bu kitap okuyucu, özellikle son yıllarda, **D&R** firmasının distribütörlük yaparak cihazı resmi yollardan ülkemize getirmesi sebebiyle ülkemizde popüler oldu. 
