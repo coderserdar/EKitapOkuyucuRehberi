@@ -17,7 +17,7 @@ Aslında bu oldukça basit bir işlem. Sırasıyla şu işlemleri gerçekleştir
 3. Cihazın ana klasöründe **.kobo** adında bir klasör göreceksiniz. İçine girin
 4. Burada **dict** adında bir klasör olması lazım
 5. **dicthtml-de-tr.zip** olan dosyayı bu klasör içerisine kopyalayın.
-6. Cihazı bilgisayardan kaldırın
+6. Cihazı bilgisayardan kaldırın (Donanımı Güvenle Kaldır demeniz tavsiye edilir.)
 
 Ancak burada dikkat edilmesi gereken bazı noktalar var
  + Dosya adı belli bir formatta olmalı
@@ -47,6 +47,7 @@ Cihazlarımıza font yüklemek, sözlük yüklemekten çok daha basit aslında. 
  2. Kobo Ana Belleğinin klasörüne girilir.
  3. Burada eğer yoksa **fonts** adında bir klasör oluşturulur
  4. İçerisinde yukarıdaki verilen linklerden indirdiğimiz font dosyaları kopyalanır.
+ 5. Cihazın bilgisayar ile olan bağlantısı kesilir. (Donanımı Güvenle Kaldır demeniz tavsiye edilir.)
 
 Sadece bu kadar. Bunu yaptığımız zaman herhangi bir kitabın içerisine girdiğimizde sorunsuzca istediğimiz fontu seçip onunla okuyabiliriz.
 
@@ -61,6 +62,6 @@ Bu programları sizin için repo adresine yükledim. Kurulumu aslında oldukça 
  2. Cihazınızı bilgisayara bağlayın.
  3. İndirdiğiniz dosyaya çift tıklayarak **WinRar**, **7Zip** ya da ne kullanıyorsanız, Çıkart butonuna tıklayın
  4. Çıkartılacağı adres olarak Kobo cihazınızın ana klasörünü belirtin
- 5. Cihazı bilgisayardan çıkarın
+ 5. Cihazın bilgisayar ile olan bağlantısını kesin. (Donanımı Güvenle Kaldır demeniz tavsiye edilir.)
 
 Hepsi bu kadar. Bunu yaptıktan sonra cihazınız yeniden başlatılacak ve ana sayfaya geldiğiniz zaman en sağda bir menü daha göreceksiniz. Burada menüye tıkladıktan sonra hangi programı yüklediyseniz onu seçtiğinizde ilgili program başlatılacak. Farklı bir okuma deneyimi kazanmış olacaksınız.
