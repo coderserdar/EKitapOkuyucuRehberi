@@ -47,4 +47,20 @@ Cihazlarımıza font yüklemek, sözlük yüklemekten çok daha basit aslında. 
  2. Kobo Ana Belleğinin klasörüne girilir.
  3. Burada eğer yoksa **fonts** adında bir klasör oluşturulur
  4. İçerisinde yukarıdaki verilen linklerden indirdiğimiz font dosyaları kopyalanır.
+
 Sadece bu kadar. Bunu yaptığımız zaman herhangi bir kitabın içerisine girdiğimizde sorunsuzca istediğimiz fontu seçip onunla okuyabiliriz.
+
+### Harici Okuma Programları
+Kobo cihazının yazılımı içerisinde varsayılan olarak gelen bir okuma programı var. Biz bir kitabı açtığımız zaman otomatik olarak o çalışıyor. Ancak sadece bu programa mahkum kalmak zorunda değiliz. Yazılımcılar bu konuda gayet güzel işler çıkarıp alternatif programlar ortaya koymuşlar. Bunlar;
+ + [**Plato**](https://github.com/baskerville/plato) - Normal okuma programına göre pek çok artı yönü var ama en güzellerinden biri herhalde **PDF Reflow** yaparak, PDF dosyalarını daha okunur hale getirmesi
+ + [**KOReader**](https://koreader.rocks) - Plato gibi ama daha çok özellikleri var.
+
+#### Harici Okuma Programları Cihaza Nasıl Yüklenir?
+Bu programları sizin için repo adresine yükledim. Kurulumu aslında oldukça basit.
+ 1. [**Kendi Kullandığım Dosyalar**]((https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Fontlar)) veya [**Sürekli Güncellenen Dosyalar**](https://www.mobileread.com/forums/showthread.php?t=314220&highlight=dictionary) adreslerinden istediğiniz dosyayı indirin. (Burada ister *Plato*, ister *KOReader*, isterseniz de *ikisini birden* yükleyebileceğiniz dosyalar mevcut)
+ 2. Cihazınızı bilgisayara bağlayın.
+ 3. İndirdiğiniz dosyaya çift tıklayarak **WinRar**, **7Zip** ya da ne kullanıyorsanız, Çıkart butonuna tıklayın
+ 4. Çıkartılacağı adres olarak Kobo cihazınızın ana klasörünü belirtin
+ 5. Cihazı bilgisayardan çıkarın
+
+Hepsi bu kadar. Bunu yaptıktan sonra cihazınız yeniden başlatılacak ve ana sayfaya geldiğiniz zaman en sağda bir menü daha göreceksiniz. Burada menüye tıkladıktan sonra hangi programı yüklediyseniz onu seçtiğinizde ilgili program başlatılacak. Farklı bir okuma deneyimi kazanmış olacaksınız.
