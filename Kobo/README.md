@@ -10,7 +10,7 @@ E-Kitap okuyucuların bana göre en faydalı özelliklerinden biri sözlükler. 
  + [**Kobo Orijinal Sözlükler**](https://www.mobileread.com/forums/showthread.php?t=346645&highlight=dictionary) - Bu adresteki linklere tıklayarak, orijinal Kobo sözlüklerini indirebilirsiniz.
  + [**Diğer Sözlükler**](https://www.mobileread.com/forums/showthread.php?t=232883) - Bu adreste de çeşitli kullanıcılar tarafından hazırlanan pek çok dildeki sözlükleri indirebilirsiniz
 
-#### Sözlükler Nasıl Yüklenir
+#### Sözlükler Cihaza Nasıl Yüklenir?
 Aslında bu oldukça basit bir işlem. Sırasıyla şu işlemleri gerçekleştirmeniz gerekiyor
 1. Cihazınızı bilgisayara bağlayın
 2. Cihazın ana klasörünü açtıktan sonra görünüm ayarlarından **Gizli Öğeleri Göster** seçeneğini işaretleyin (Eğer işaretli değilse tabii ki)
@@ -31,3 +31,20 @@ Ancak burada dikkat edilmesi gereken bazı noktalar var
      + Ben genelde [Calibre](https://calibre-ebook.com) uygulaması ile atıyorum. Ve kitapları atarken metadata düzenleme kısmında Dil bölümünde *kitabın hangi dilde yazıldığı kısmını* seçiyorum ki sonrasında cihaz kitabın dilini algılayıp, ona göre sözlük önerisinde bulunsun.
 
 Yukarıdaki adımları takip ederseniz keyifli bir şekilde cihazınızı pek çok sözlükle kullanabilirsiniz.
+
+### Fontlar
+Kitap okuyucu kullanırken yazı tipleri yani fontlar da önemli bir yer kaplıyor kitap okumada. Font çeşitliliğin olması her zaman iyidir. **Kobo** bu konuda **Kindle**a göre oldukça avantajlı.
+
+#### Font Dosyaları
+ + [Kendi Kullandığım Fontlar](https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Fontlar) - Burada benim en sık kullandığım ve sevdiğim fontlar mevcut
+ + [Google Fonts](https://fonts.google.com) - Burada zevkinize göre pek çok sayıda fontu bilgisayarınıza ücretsiz olarak indirebilirsiniz.
+ + [Font Fabric](https://www.fontfabric.com/free-fonts/) - Pek çok ücretsiz fontu bu adresten indirebilirsiniz.
+ + [Be Fonts](https://befonts.com/?filter=featured) - Pek çok ücretsiz fontu bu adresten indirebilirsiniz.
+
+#### Fontlar Cihaza Nasıl Yüklenir?
+Cihazlarımıza font yüklemek, sözlük yüklemekten çok daha basit aslında. Sırasıyla şu adımlar takip edilmeli
+ 1. Cihaz bilgisayara bağlanır
+ 2. Kobo Ana Belleğinin klasörüne girilir.
+ 3. Burada eğer yoksa **fonts** adında bir klasör oluşturulur
+ 4. İçerisinde yukarıdaki verilen linklerden indirdiğimiz font dosyaları kopyalanır.
+Sadece bu kadar. Bunu yaptığımız zaman herhangi bir kitabın içerisine girdiğimizde sorunsuzca istediğimiz fontu seçip onunla okuyabiliriz.
