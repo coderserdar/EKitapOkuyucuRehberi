@@ -5,7 +5,7 @@
 Bu repo adresinde E-Kitap Okuyucular ile ilgili olarak 
  + Faydalı linkler
  + Faydalı dosyalar
- + Marka bazlı özel dosyalar bulunmaktadır.
+ + Marka bazlı özel repolar bulunmaktadır.
 
 ### Marka Bazlı
  + [**Kobo**](https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo) - Bu repo içerisinde **Kobo** marka kitap okuyucular ile ilgili olarak pek çok faydalı bilgiye ulaşabilirsiniz.
@@ -13,7 +13,7 @@ Bu repo adresinde E-Kitap Okuyucular ile ilgili olarak
 ### Genel
 
 #### Forum Vb.
-Eğer İngilizce dili sizin için sorun değilse, aşağıdaki adreslerde genel olarak tüm sorunlarınız, ihtiyaçlarınızın daha önceden tartışıldığı ve çözüme ulaştırıldığı forumlar mevcuttur.
+Eğer İngilizce dili sizin için sorun değilse, aşağıdaki adreslerde genel olarak e-kitap okuyucular ile ilgili olarak merak ettiğiniz pek çok şeyin cevaplandırıldığı siteler mevcuttur.
  + [**MobileRead**](https://www.mobileread.com/forums/) - Bu sitede genel olarak arayıp da bulamayacağınız pek bir şey yok. Kitap okuyucuların markalarına göre alt forumlar da oluşturulmuş ve cihaz hackleme, font yükleme, harici program yükleme gibi pek çok faydalı işlemlerin nasıl yapılacağı kullanıcılar tarafından detaylıca anlatılmış.
  + [**Good EReader**](https://goodereader.com/blog/) - Bu sitede de pek çok e-kitap okuyucu hakkında incelemeler bulunmakta. Daha modern bir görünüşü olduğu için okumaya daha elverişli. Ancak *MobileRead* kadar geniş bir arşivi yok.
  + [**The E-Book Reader**](https://www.the-ebook-reader.com) - Bu sitede de detaylı pek çok inceleme, kitap okuyucular hakkında çıkan haberler bulunmakta.
