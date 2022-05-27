@@ -58,7 +58,7 @@ Kobo cihazının yazılımı içerisinde varsayılan olarak gelen bir okuma prog
 
 #### Harici Okuma Programları Cihaza Nasıl Yüklenir?
 Bu programları sizin için repo adresine yükledim. Kurulumu aslında oldukça basit.
- 1. [**Kendi Kullandığım Dosyalar**](https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Fontlar) veya [**Sürekli Güncellenen Dosyalar**](https://www.mobileread.com/forums/showthread.php?t=314220&highlight=dictionary) adreslerinden istediğiniz dosyayı indirin. (Burada ister *Plato*, ister *KOReader*, isterseniz de *ikisini birden* yükleyebileceğiniz dosyalar mevcut)
+ 1. [**Kendi Kullandığım Dosyalar**](https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Programlar) veya [**Sürekli Güncellenen Dosyalar**](https://www.mobileread.com/forums/showthread.php?t=314220&highlight=dictionary) adreslerinden istediğiniz dosyayı indirin. (Burada ister *Plato*, ister *KOReader*, isterseniz de *ikisini birden* yükleyebileceğiniz dosyalar mevcut)
  2. Cihazınızı bilgisayara bağlayın.
  3. İndirdiğiniz dosyaya çift tıklayarak **WinRar**, **7Zip** ya da ne kullanıyorsanız, Çıkart butonuna tıklayın
  4. Çıkartılacağı adres olarak Kobo cihazınızın ana klasörünü belirtin
