@@ -2,6 +2,27 @@
 *Kanada*'da bulunan *Japon* **Rakuten** firmasının üretmiş olduğu bu kitap okuyucu, özellikle son yıllarda, **D&R** firmasının distribütörlük yaparak cihazı resmi yollardan ülkemize getirmesi sebebiyle ülkemizde popüler oldu.
 Aşağıda, eğer e-kitap okuyucunuz Kobo marka ise bu cihazları daha etkili bir şekilde kullanabileceğiniz yöntemler mevcuttur.
 
+### Calibre
+Bu program, e-kitap okuyucusu olan kişiler için olmazsa olmaz programlardan biri. Hem kitaplığınızı düzgün bir şekilde tutmanızı sağlıyor. Hem de metaverilerini güncellediğiniz kitapları, düzgün bir şekilde kitap okuyucunuza atmanızı sağlıyor. Pek çok e-kitap okuyucuyu destekleyen bu programda Kobo için de eklentiler bulunuyor.
+[Bu adresten](https://calibre-ebook.com/download) programı indirip hemen denemeye başlayabilirsiniz.
+
+#### Calibre İçinde Bulunan Faydalı Eklentiler
+Bu eklentiler için programda sırasıyla
+**Tercihler** -> **Eklentiler** -> **Yeni Eklentiler Edin** dedikten sonra çıkan ekranda arama kutusuna Kobo yazarak
+ + **Kobo Books** (*Kitabın metadata ve kapak bilgisinin kobobooks.com adresinden indirilmesini sağlayan bir eklenti*)
+ + **Kobo Utilities** (*Kobo cihazların iletişimi ile ilgili pek çok özelliği sağlayan bir eklenti*)
+ + **Kobo TouchExtended** (*Üsttekine benzer şekilde cihaza hangi formattaki kitapların nasıl gönderileceği, koleksiyonların nasıl oluşturulacağı vb. pek çok özelliğe sahip bir eklenti*)
+eklentilerini kurabilirsiniz.
+
+Ben genelde Kobo cihazıma sadece **.kepub** uzantılı kitapları gönderiyorum. Hem cihaz daha performanslı çalışıyor hem de dipnotları görmesi daha kolay oluyor. Bu yüzden yukarıdaki eklentiler sayesinde elimdeki kitapları **KEPUB** formatına çevirdikten sonra yine *Calibre* ile cihaza gönderiyorum. Aşağıdaki bu eklentiler ve kullanımına dair ekran görüntülerini görebilirsiniz.
+
+<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_01.png?raw=true"></td>
+<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_02.png?raw=true"></td>
+<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_03.png?raw=true"></td>
+<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_04.png?raw=true"></td>
+<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_05.png?raw=true"></td>
+<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_06.png?raw=true"></td>
+
 ### Sözlükler
 E-Kitap okuyucuların bana göre en faydalı özelliklerinden biri sözlükler. İçerisine harici sözlük attıktan sonra kelimenin üzerine basılı tutarak veya o kelimenin olduğu yere gelerek sözlük anlamını görebilmek, yabancı dillerdeki kitapların okunmasını kolaylaştırıyor ve insanın dil geliştirmesine katkıda bulunuyor.
 
