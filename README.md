@@ -26,7 +26,6 @@ Bu sebeple aşağıda bulunan kitap indirme linkleri, genel olarak **MOBI** ve *
  + [**MobileRead**](https://www.mobileread.com/forums/ebooks.php) - Burada dosya formatı ve kitabın janrına göre filtreleme yaparak çeşitli dillerdeki pek çok ücretsiz kitabı indirebilmek mümkün. Ayrıca isim bazlı arama da yapılabiliyor. Buradaki kitapları indirmek için foruma üye olmaya gerek yok.
  + [**ManyBooks**](https://manybooks.net) - Burada da janra, yazara, dile göre arama yaparak binlerce ücretsiz kitap içerisinden istediğinizi, istediğiniz formatta indirebilirsiniz.
  + [**Project Gutenberg**](https://www.gutenberg.org) - Bu site üzerinde, telif hakkı kalmamış, 60000'den fazla ücretsiz kitabı çeşitli formatlarda indirebilirsiniz.
- + [**Eski Kitaplarım**](https://www.eskikitaplarim.com) - Üye olmanız gereken bu forumda kitapların türlerine göre kategoriler açılarak, pek çok kitabı bulabilmeniz mümkün
  + *Fanfiction Kitaplar*
    + [**Archive Of Our Own**](https://archiveofourown.org) - Üye olmanıza gerek kalmadan özellikle *Harry Potter* ile ilgili pek çok kitabı istediğiniz formatta indirebilirsiniz.
    + [**FanFiction.Net**](https://www.fanfiction.net/book/) - Bir üstteki linkteki gibi burada da binlerce kitap bulunmakta. İndirmek istediğiniz kitabın linkini [Fichub](https://fichub.net) adresine kopyaladıktan sonra *EPUB* formatında indirip cihazlarınıza atabilirsiniz
