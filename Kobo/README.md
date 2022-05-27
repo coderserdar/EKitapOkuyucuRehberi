@@ -16,7 +16,7 @@ eklentilerini kurabilirsiniz.
 
 Ben genelde Kobo cihazıma sadece **.kepub** uzantılı kitapları gönderiyorum. Hem cihaz daha performanslı çalışıyor hem de dipnotları görmesi daha kolay oluyor. Bu yüzden yukarıdaki eklentiler sayesinde elimdeki kitapları **KEPUB** formatına çevirdikten sonra yine *Calibre* ile cihaza gönderiyorum. Aşağıdaki bu eklentiler ve kullanımına dair ekran görüntülerini görebilirsiniz.
 
-<td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_01.png?raw=true"></td>
+<td><img src="https://raw.githubusercontent.com/coderserdar/EKitapOkuyucuRehberi/main/Kobo/Screenshots/Calibre_01.png></td>
 <td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_02.png?raw=true"></td>
 <td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_03.png?raw=true"></td>
 <td><img src="https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo/Screenshots/Calibre_04.png?raw=true"></td>
