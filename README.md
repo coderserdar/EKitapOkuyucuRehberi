@@ -8,6 +8,7 @@ Bu repo adresinde E-Kitap Okuyucular ile ilgili olarak
  + Marka bazlı özel repolar bulunmaktadır.
 
 ### Marka Bazlı
+ + [**Amazon Kindle**](https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kindle) - Bu repo içerisinde **Amazon Kindle** marka kitap okuyucular ile ilgili olarak pek çok faydalı bilgiye ulaşabilirsiniz.
  + [**Kobo**](https://github.com/coderserdar/EKitapOkuyucuRehberi/tree/main/Kobo) - Bu repo içerisinde **Kobo** marka kitap okuyucular ile ilgili olarak pek çok faydalı bilgiye ulaşabilirsiniz.
 
 ### Genel
